@@ -2,6 +2,8 @@
 
 A minimal Next.js example demonstrating GT's variable components: `<Var>`, `<Num>`, `<Currency>`, and `<DateTime>` inside `<T>`.
 
+**[Live Demo →](https://variable-components.generaltranslation.dev)**
+
 Shows a user profile card with locale-aware formatting for names, numbers, currencies, and dates.
 
 Built with [gt-next](https://generaltranslation.com/docs) and [Next.js](https://nextjs.org).
